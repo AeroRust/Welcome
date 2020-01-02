@@ -22,4 +22,4 @@ We are also, of course, aiming to grow the [Rust programming language](rust-lang
 
 ### You might be asking: Why Rust then?
 
-The language is quite new, but it's already changing a lot of industries. Rust has many compealing features and benefits over other languages, but it's also might not the **only** language you need to choose and use.
+The language is quite new, but it's already changing a lot of industries. Rust has many compealing features and benefits over other languages, but it might not be the **only** language you need to choose and use.
