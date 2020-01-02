@@ -1,4 +1,4 @@
-# Welcome ![Discord](https://img.shields.io/discord/662244134316408833?label=Discord&style=flat-square)
+# Welcome [![Discord](https://img.shields.io/discord/662244134316408833?label=Discord&style=flat-square)](https://discord.gg/RXNsMXc)
 Welcome to the (Unofficial) Rust 🦀 + Aerospace 🚀 working group 🙌
 
 # What is `Aerospace`?
