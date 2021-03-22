@@ -28,12 +28,12 @@ Lately the Aerospace industry is picking up speed in comercialization and even f
 
 This Community and Working group is aiming to help push the Open-source community more into the growing Aerospace industry, by providing information, materials, tools, crates and etc. to hobyists and the industry.
 
-# [The Rust programming language 🦀](rust-lang.org)
+# [The Rust programming language 🦀](https://rust-lang.org)
 
 > A language empowering everyone
 to build reliable and efficient software. 
 
-We also aim to grow the [Rust programming language](rust-lang.org) community by this effort and set it as a leading technology in the area.
+We also aim to grow the [Rust programming language](https://rust-lang.org) community by this effort and set it as a leading technology in the area.
 
 ### You might be asking: Why Rust then?
 
