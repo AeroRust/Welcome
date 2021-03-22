@@ -1,4 +1,4 @@
-# Welcome AeroRust [![Join Discord](https://img.shields.io/discord/662244134316408833?label=Discord&style=flat-square)](https://discord.gg/Xd98GjuEhu)
+# Welcome to AeroRust [![Join Discord](https://img.shields.io/discord/662244134316408833?label=Discord&style=flat-square)](https://discord.gg/Xd98GjuEhu)
 ## A Rust 🦀 in Aerospace 🚀 Community & Working Group 🙌
 
 # Where to start
