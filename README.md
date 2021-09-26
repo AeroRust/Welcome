@@ -4,7 +4,7 @@
 The rapidly developing aerospace industry is picking up speed with faster and exponential development and comercialization, this is why we've created **AeroRust**.
 
 **AeroRust** is aiming to help push the Open-source community more into the growing Aerospace industry, by providing information, materials, tools, crates and etc. to hobyists and the industry.
-There are 2 distict parts in organization:
+There are 2 distict parts in our organization:
 
 ### The Community
 
