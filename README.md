@@ -1,14 +1,19 @@
-# Welcome to AeroRust [![Join Discord](https://img.shields.io/discord/662244134316408833?label=Discord&style=flat-square)](https://discord.gg/Xd98GjuEhu)
+# Welcome to AeroRust [![Join Discord](https://img.shields.io/discord/662244134316408833?label=Discord&style=flat-square)](https://discord.gg/Xd98GjuEhu) [![areweinspaceyet.org](https://img.shields.io/badge/Are%20we%20in%20space%20yet.org%20%F0%9F%9A%80%20%3F-YES!-brightgreen?style=flat-square)](https://areweinspaceyet.org/)
 ## A Rust 🦀 in Aerospace 🚀 Community & Working Group 🙌
 
 # Where to start
 
-### Community
+
+
+### The Community
+
+An opened environemtn welcoming anyone interested in aerospace, robotics, programming, etc.
 
 Our community resides on Discord, so make sure to join in there: https://discord.gg/Xd98GjuEhu
 
 ### Working group
 
+Here you will find the people who are developing all the projects (from programming to educational) under the AeroRust organization.
 A good starting point to get involved is to check out https://github.com/AeroRust/WorkingGroup/issues, where you can find or share new ideas, current projects and more.
 
 Make sure to check out our Contact letter for companies, agencies and communities: https://github.com/AeroRust/WorkingGroup/issues/6
@@ -24,9 +29,11 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Aerospace)
 
 # Why now?
 
-Lately the Aerospace industry is picking up speed in comercialization and even faster and rapid development in the area, this is why we've created the AeroRust working group.
+Lately the Aerospace industry is picking up speed in comercialization and faster and rapid development in the area, this is why we've created the AeroRust. 
 
-This Community and Working group is aiming to help push the Open-source community more into the growing Aerospace industry, by providing information, materials, tools, crates and etc. to hobyists and the industry.
+AeroRust is aiming to help push the Open-source community more into the growing Aerospace industry, by providing information, materials, tools, crates and etc. to hobyists and the industry.
+There are 2 distict parts in organization:
+
 
 # [The Rust programming language 🦀](https://rust-lang.org)
 
