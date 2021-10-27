@@ -1,4 +1,4 @@
-# Welcome to AeroRust [![Join Discord](https://img.shields.io/discord/662244134316408833?label=Discord&style=flat-square)](https://discord.gg/Xd98GjuEhu) [![areweinspaceyet.org](https://img.shields.io/badge/Are%20we%20in%20space%20yet.org%20%F0%9F%9A%80%20%3F-YES!-brightgreen?style=flat-square)](https://areweinspaceyet.org/)
+# Welcome to AeroRust [![Join Discord](https://img.shields.io/discord/662244134316408833?label=Discord&style=flat-square)](https://discord.gg/6wFvsFWfnu) [![areweinspaceyet.org](https://img.shields.io/badge/Are%20we%20in%20space%20yet.org%20%F0%9F%9A%80%20%3F-YES!-brightgreen?style=flat-square)](https://areweinspaceyet.org/)
 ## Your launchpad to Aerospace 🚀 using Rust 🦀
 
 The rapidly developing aerospace industry is picking up speed with faster and exponential development and comercialization, this is why we've created **AeroRust**.
