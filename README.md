@@ -17,7 +17,7 @@ Our community resides on Discord, so make sure to come and say hi 👋 when you 
 Here you will find the people who are developing all the projects (from programming to educational) under the AeroRust organization.
 A good starting point to get involved is to check out https://github.com/AeroRust/WorkingGroup/issues, where you can find or share new ideas, current projects and more.
 
-If you or your comapny is interested in this kind of technology, make sure to check out the Contact letter for companies, agencies and communities https://github.com/AeroRust/WorkingGroup/issues/6. We have layed out useful information if you're looking to adopt Rust and you can read about our aproach on how to grow it.
+If you or your company is interested in this kind of technology, make sure to check out the Contact letter for companies, agencies and communities https://github.com/AeroRust/WorkingGroup/issues/6. We have layed out useful information if you're looking to adopt Rust and you can read about our aproach on how to grow it.
 
 We have a number of conferece participations, as well as talks which you can find here including links where you can watch them: https://github.com/AeroRust/WorkingGroup/issues/14
 
